@@ -3,7 +3,7 @@
 A desktop timer (Windows + macOS) for tracking how long you "slack" between
 finishing a rest period and actually starting your next set.
 
-Note: This is a less polished version of [this app] (https://github.com/1729prashant/workout-timer)
+Note: This is a less polished version of [this app](https://github.com/1729prashant/workout-timer)
 
 ![Demo](screenshots/demo.gif)
 
